@@ -58,9 +58,9 @@ Professional accounts created on three platforms relevant to Computer Science \&
 
 |Platform|Purpose|Profile Link|
 |-|-|-|
-|GitHub|Code hosting and project portfolio|https://github.com/harsh25bce11327-hub|
-|Kaggle|Data science and machine learning practice|https://www.kaggle.com/harshgajendradixit|
-|Stack Overflow|Programming Q\&A and problem solving|https://stackoverflow.com/users/32555367/harsh-gajendra-dixit|
+|GitHub|Code hosting and project portfolio|https://github.com/pedgaonkar25boe10099|
+|Kaggle|Data science and machine learning practice|https://www.kaggle.com/pedgaonkar25boe10099|
+|Stack Overflow|Programming Q\&A and problem solving|https://stackoverflow.com/users/32563268/pedgaonkar-pranshu-sanjay-25bo|
 
 Folder: [task-2-portfolio/](./task-2-portfolio/)
 
