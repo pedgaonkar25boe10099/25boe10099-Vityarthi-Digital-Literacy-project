@@ -1,7 +1,13 @@
-Subject: Application for a summer internnship program.
-Dear Internship Coordinator,
-I hope you are doing well. I am Pedgaonkar Pranshu Sanjay, studying currently at VIT Bhopal University and pursuing my degree in Bioengineering Program.I am writing this email to express my interest to participate at the Summer Internship Program at Deloit.
-I read about your internship article in todays newspaper and currently wishin to work in the software developement. Through my work and Projects, I have developed skills in Machine Learning and Data structures and algorithms.
-I beleive this internship opportunity would definitely led to a good exposure to industry environment as well as an opportunity to contribute valuably to your team. I have added my resume for your review ad would be happy to add any more information as required.
-Thank you for considering my application and hoping to work with deloit this summer.
-Best Regards, Pedgaonkar Pranshu Sanjay 25BOE10099, VIT Bhopal University
+**SUBJECT**:- Request for extension of the assignment.
+
+**TO**:- professor@gmail.com  
+**FROM**:- XYZ@gmail.com
+
+Dear Professor,
+
+I am writing this email for the request of extending the deadline of assignment of the problems given which is currently due on the date **26 Feb 2026**.   
+  Due to family emergency on my side, it's not possible for me to complete the assignment within the given deadline. Therefore for my academic record to be conserved, it's my kind request for the extension of the date.
+
+BEST REGARDS,  
+Pedgaonkar Pranshu Sanjay 
+25BOE10099
